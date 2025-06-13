@@ -1,0 +1,41 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Mac and Linux hidden files
+.DS_Store
+Thumbs.db
+
+# Output and logs
+*.log
+*.txt
+output/
+wordlists/
+astra_wordlist.txt
+
+# VSCode settings
+.vscode/
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# OS generated files
+*.swp
+*~
+.cache
+
+# Build
+build/
+dist/
+*.egg
+.eggs/
