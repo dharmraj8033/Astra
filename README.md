@@ -21,7 +21,7 @@ Astra runs on Python 3.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/astra.git
+git clone https://github.com/dharmraj8033/Astra.git
 cd astra
 
 # Run it with Python
